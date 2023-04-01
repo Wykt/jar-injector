@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vertine-Injector", "Vertine-Injector\Vertine-Injector.vcxproj", "{10889FF9-B3A5-4474-8FCA-039459A1888A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jar-injector", "jar-injector\jar-injector.vcxproj", "{10889FF9-B3A5-4474-8FCA-039459A1888A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
